@@ -11,5 +11,5 @@
    4. Copy the "anon public" key into SUPABASE_ANON_KEY below.
 ============================================================ */
 
-const SUPABASE_URL = "YOUR_SUPABASE_URL";        // e.g. "https://abcdefgh.supabase.co"
-const SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_KEY"; // the long "anon public" key
+const SUPABASE_URL = "https://mzrpqyzvnsfujjpuzpxz.supabase.co";        // e.g. "https://abcdefgh.supabase.co"
+const SUPABASE_ANON_KEY = "sb_publishable_JmZ7ndH3dtLZVz10X-Pj9A_ZwoP__RA"; // the long "anon public" key
